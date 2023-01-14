@@ -8,27 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joaop\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git repo\\LI4Blazor\\LI4Blazor\\LI4Blazor\\LI4Blazor.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\git repo\\LI4\\LI4Blazor\\LI4Blazor\\LI4Blazor.csproj",
       "projectName": "LI4Blazor",
-      "projectPath": "D:\\git repo\\LI4Blazor\\LI4Blazor\\LI4Blazor\\LI4Blazor.csproj",
-      "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-      "outputPath": "D:\\git repo\\LI4Blazor\\LI4Blazor\\LI4Blazor\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\git repo\\LI4\\LI4Blazor\\LI4Blazor\\LI4Blazor.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\git repo\\LI4\\LI4Blazor\\LI4Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net7.0": {
@@ -64,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
