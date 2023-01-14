@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\Desktop\\git repo\\LI4\\LI4Blazor\\LI4Blazor\\LI4Blazor.csproj": {}
   },
   "projects": {
@@ -16,12 +17,32 @@
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "/home/ines/3ano1sem/li4/LI4/LI4Blazor/LI4Blazor/LI4Blazor.csproj": {}
+  },
+  "projects": {
+    "/home/ines/3ano1sem/li4/LI4/LI4Blazor/LI4Blazor/LI4Blazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ines/3ano1sem/li4/LI4/LI4Blazor/LI4Blazor/LI4Blazor.csproj",
+        "projectName": "LI4Blazor",
+        "projectPath": "/home/ines/3ano1sem/li4/LI4/LI4Blazor/LI4Blazor/LI4Blazor.csproj",
+        "packagesPath": "/home/ines/.nuget/packages/",
+        "outputPath": "/home/ines/3ano1sem/li4/LI4/LI4Blazor/LI4Blazor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ines/.nuget/NuGet/NuGet.Config"
+>>>>>>> c5bf565323fd7bcd7ac732b18322629d2229bb4a
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+=======
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> c5bf565323fd7bcd7ac732b18322629d2229bb4a
         },
         "frameworks": {
           "net7.0": {
@@ -38,6 +59,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[1.1.0-msbuild3-final, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +88,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+>>>>>>> c5bf565323fd7bcd7ac732b18322629d2229bb4a
         }
       }
     }
