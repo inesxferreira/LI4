@@ -16,9 +16,9 @@ namespace PrimeiroMapeamentoObjetoRelacional
                 morada= "kkkk",
             };
 
-            ClientesContext db = new ClientesContext();
+            Context db = new Context();
 
-            db.Clientes.Add(cli);
+            db.Client.Add(cli);
 
             db.SaveChanges();
 
