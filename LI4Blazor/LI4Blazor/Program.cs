@@ -12,8 +12,8 @@ namespace PrimeiroMapeamentoObjetoRelacional
                 email= "joel@"
                 Nome = "Joel",
                 username = "kk",
-                password= "kkk"
-                morada= "kkkk"
+                password= "kkk",
+                morada= "kkkk",
             };
 
             ClientesContext db = new ClientesContext();
