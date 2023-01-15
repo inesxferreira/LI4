@@ -8,9 +8,12 @@ namespace PrimeiroMapeamentoObjetoRelacional
         {
             Cliente cli = new Cliente
             {
+                id= 3,
+                email= "joel@"
                 Nome = "Joel",
-                Credito = 900,
-                Idade = 24
+                username = "kk",
+                password= "kkk"
+                morada= "kkkk"
             };
 
             ClientesContext db = new ClientesContext();
